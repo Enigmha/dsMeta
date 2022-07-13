@@ -5,7 +5,6 @@ function App() {
   return (
     <>
       <Header />
-      <h1>Teste Metas</h1>
       <main>
         <section id="sales">
           <div className="dsmeta-container">
